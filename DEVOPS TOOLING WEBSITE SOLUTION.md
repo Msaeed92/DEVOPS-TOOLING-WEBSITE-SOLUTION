@@ -167,5 +167,3 @@ INSERT INTO ‘users’ (‘id’, ‘username’, ‘password’, ’email’, 
 ```
 ![pix16](https://user-images.githubusercontent.com/74002629/183053301-e021a287-f188-441e-96d0-022663e79a2d.PNG)
 Finally, open the website in your browser with the public IP of the webserver and make sure you can login into the websute with myuser user.
-![pix17](https://user-images.githubusercontent.com/74002629/183053304-87db560b-8cbb-448e-96e1-caae58c2f0c1.PNG)
-![pix18](https://user-images.githubusercontent.com/74002629/183053318-df3c9915-a54d-46d2-b798-5f54e3d8bb43.PNG)
